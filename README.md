@@ -21,7 +21,7 @@ La conexión se realiza mediante variables de entorno usando un archivo `.env` q
    - **SSH (22/tcp)**
    - **HTTP (80/tcp)**
    - **HTTPS (443/tcp)**
-   - **SE Habilitaa tambein el puerto 8000/tcp
+   - **Se Habilita tambien el puerto 8000/tcp
 
 ### **Grupo de seguridad de la EC2-DB**
 
